@@ -1,5 +1,7 @@
 ### Коллекция запросов для тестирования API Яндекс Прилавок
 
+---
+
 [Добавление продуктов в набор](https://www.postman.com/forweb/workspace/lavka/collection/34470293-43a0352a-462a-446f-ad79-50a57974f293) `POST /api/v1/kits/id/products`
 
 ---
@@ -30,6 +32,8 @@
 | 22  | [Добавить в пустой набор 30 продуктов](https://www.postman.com/forweb/workspace/lavka/request/34470293-65d6ff1f-ace0-4f18-b09a-926445d3b256)                   | 200 ОК              | PASSED |                                                           |
 | 23  | [Добавить в пустой набор 31 продукт](https://www.postman.com/forweb/workspace/lavka/request/34470293-94ea7414-244c-43b6-baa8-d6ca0dee4dc0)                     | 400 Bad Request     | PASSED |                                                           |
 | 24  | [Добавить в пустой набор 105 продуктов](https://www.postman.com/forweb/workspace/lavka/request/34470293-d9a6acc5-448b-4957-a3b2-e0328e0715f7)                  | 400 Bad Request     | PASSED |                                                           |
+
+---
 
 [Курьерская служба «Привезём быстро»](https://www.postman.com/forweb/workspace/lavka/collection/34470293-2639eb85-a518-4f07-a05c-d891af007682) POST /fast-delivery/v3.1.1/calculate-delivery.xml
 
