@@ -26,11 +26,11 @@
 |    |                                                 | Ошибок в структуре ответа нет       | PASSED  |                      |
 |    |                                                 | Продукты в набор добавлены          | PASSED  |                      |
 |    |                                                 | Появилась запись в БД               | PASSED  |                      |
-| 6  | Добавить в набор продукт с несуществующим id    | Код и статус ответа 400 Bad Request | FAILED  | [BUG-52](#bugs-3)    |
-| 7  | Добавить в набор продукт с id = A               | Код и статус ответа 400 Bad Request | PASSED  |                      |
-| 8  | Добавить в набор продукт с id = @               | Код и статус ответа 400 Bad Request | PASSED  |                      |
-| 9  | Передать пробел в id продукта                   | Код и статус ответа 400 Bad Request | FAILED  | [BUG-88](#bugs-3)    |
-| 10 | Отсутствие параметра id продукта в теле запроса | Код и статус ответа 400 Bad Request | FAILED  | [BUG-89](#bugs-3)    |
+| 6  | [Добавить в набор продукт с несуществующим id](https://www.postman.com/forweb/workspace/lavka/request/34470293-9f287045-d859-4a61-b893-1044c0a635d6?action=share&creator=34470293&ctx=documentation&active-environment=34470293-0f725035-fc11-4334-81d0-6ce0972fbef5)    | Код и статус ответа 400 Bad Request | FAILED  | [BUG-52](#bugs-3)    |
+| 7  | [Добавить в набор продукт с id = A](https://www.postman.com/forweb/workspace/lavka/request/34470293-6aecd383-8f82-4a9b-a427-f73764db65ad?action=share&creator=34470293&ctx=documentation&active-environment=34470293-0f725035-fc11-4334-81d0-6ce0972fbef5)               | Код и статус ответа 400 Bad Request | PASSED  |                      |
+| 8  | [Добавить в набор продукт с id = @](https://www.postman.com/forweb/workspace/lavka/request/34470293-cf63d202-8628-4398-8e25-b56c46cda4b7?action=share&creator=34470293&ctx=documentation&active-environment=34470293-0f725035-fc11-4334-81d0-6ce0972fbef5)              | Код и статус ответа 400 Bad Request | PASSED  |                      |
+| 9  | [Передать пробел в id продукта](https://www.postman.com/forweb/workspace/lavka/request/34470293-21fc245e-a633-4514-b8cc-df30c3127eda?action=share&creator=34470293&ctx=documentation&active-environment=34470293-0f725035-fc11-4334-81d0-6ce0972fbef5)                   | Код и статус ответа 400 Bad Request | FAILED  | [BUG-88](#bugs-3)    |
+| 10 | [Отсутствие параметра id продукта в теле запроса](https://www.postman.com/forweb/workspace/lavka/request/34470293-a66448c5-bf5a-4cad-971a-f1da3208185a?action=share&creator=34470293&ctx=documentation&active-environment=34470293-0f725035-fc11-4334-81d0-6ce0972fbef5) | Код и статус ответа 400 Bad Request | FAILED  | [BUG-89](#bugs-3)    |
 
 ---
   
