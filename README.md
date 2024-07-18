@@ -23,6 +23,13 @@
 | 15  | [Отправить запрос с quantity = @](https://www.postman.com/forweb/workspace/lavka/request/34470293-0ba6583e-cee2-404f-8b8b-668a98a48916)                        | 400 Bad Request     | PASSED |                                                           |
 | 16  | [Передать пробел в quantity продукта](https://www.postman.com/forweb/workspace/lavka/request/34470293-404cbebf-444c-45f6-9822-6f9a6d1f4bbb)                    | 400 Bad Request     | FAILED | [BUG-14](https://heorhii-ap.youtrack.cloud/issue/BUG-14)  |
 | 17  | [Отсутствие параметра quantity продукта в теле запроса](https://www.postman.com/forweb/workspace/lavka/request/34470293-c4a8bf67-2070-4190-8247-ab3dc05c92b6)  | 400 Bad Request     | FAILED | [BUG-15](https://heorhii-ap.youtrack.cloud/issue/BUG-15)  |
+| 18  | [Добавить в пустой набор 1 продукт](https://www.postman.com/forweb/workspace/lavka/request/34470293-e85e38ec-230a-4482-8a67-0a8c171b19ac)                      | 200 ОК              | PASSED |                                                           |
+| 19  | [Добавить в пустой набор 2 продукта](https://www.postman.com/forweb/workspace/lavka/request/34470293-8be17f0d-3b1a-4220-acda-a460247c5585)                     | 200 ОК              | PASSED |                                                           |
+| 20  | [Добавить в пустой набор 15 продуктов](https://www.postman.com/forweb/workspace/lavka/request/34470293-497a254c-8187-4940-ab43-745ffbaa8022)                   | 200 ОК              | PASSED |                                                           |
+| 21  | [Добавить в пустой набор 29 продуктов](https://www.postman.com/forweb/workspace/lavka/request/34470293-27fcc352-bfdd-404f-927e-4eeba75952d7)                   | 200 ОК              | PASSED |                                                           |
+| 22  | [Добавить в пустой набор 30 продуктов](https://www.postman.com/forweb/workspace/lavka/request/34470293-65d6ff1f-ace0-4f18-b09a-926445d3b256)                   | 200 ОК              | PASSED |                                                           |
+| 23  | [Добавить в пустой набор 31 продукт](https://www.postman.com/forweb/workspace/lavka/request/34470293-94ea7414-244c-43b6-baa8-d6ca0dee4dc0)                     | 400 Bad Request     | PASSED |                                                           |
+| 24  | [Добавить в пустой набор 105 продуктов](https://www.postman.com/forweb/workspace/lavka/request/34470293-d9a6acc5-448b-4957-a3b2-e0328e0715f7)                  | 400 Bad Request     | PASSED |                                                           |
 
 
 
