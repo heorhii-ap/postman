@@ -1,5 +1,4 @@
-> [!TIP]
-> Чек-лист на API Яндекс Прилавок и результаты выполнения тестов.
+### Чек-лист на API Яндекс Прилавок и результаты выполнения тестов.
 
 [Добавление продуктов в набор](https://www.postman.com/forweb/workspace/lavka/collection/34470293-43a0352a-462a-446f-ad79-50a57974f293?action=share&creator=34470293&active-environment=34470293-0f725035-fc11-4334-81d0-6ce0972fbef5) `POST /api/v1/kits/id/products`
 
