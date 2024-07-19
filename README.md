@@ -42,6 +42,13 @@
 | №   | Описание проверки                                                                                                                                              | Ожидаемый результат | Статус | Ссылки на баг-репорты                                     |
 |:---:|----------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|:------:|:---------------------------------------------------------:|
 | 25  | [Возможность доставки в 15 часов](https://www.postman.com/forweb/workspace/lavka/request/34470293-237e0fab-9c7c-43b3-b391-ed9a234fba95)                        | 200 ОК              | PASSED |                                                           |
+| 26  | [Возможность доставки в 7 часов](https://www.postman.com/forweb/workspace/lavka/request/34470293-8d04cf5e-e57d-4858-8e01-6167c1758b77)                         | 200 ОК              | PASSED |                                                           |
+| 27  | [Возможность доставки в 07 часов](https://www.postman.com/forweb/workspace/lavka/request/34470293-6e47f12c-c47b-4674-9aa3-c6b9ace0f20d)                        | 200 ОК              | PASSED |                                                           |
+| 28  | [Возможность доставки в 8 часов](https://www.postman.com/forweb/workspace/lavka/request/34470293-74b24edf-9208-4c03-814c-24ffd385bdf4)                         | 200 ОК              | PASSED |                                                           |
+| 29  | [Возможность доставки в 08 часов](https://www.postman.com/forweb/workspace/lavka/request/34470293-3447549f-e157-4845-a6f8-d0b35a7b45d2)                        | 200 ОК              | PASSED |                                                           |
+| 30  | [Возможность доставки в 20 часов](https://www.postman.com/forweb/workspace/lavka/request/34470293-19dca10c-f40a-4f1e-a3bc-9b234c2a60bf)                        | 200 ОК              | PASSED |                                                           |
+| 31  | [Возможность доставки в 21 час](https://www.postman.com/forweb/workspace/lavka/request/34470293-a1c29b29-7b34-4501-b302-ab90b62ee434)                          | 200 ОК              | PASSED |                                                           |
+| 32  | [Возможность доставки в 0 часов](https://www.postman.com/forweb/workspace/lavka/request/34470293-d1b17e8e-5263-4871-a674-430cb7b21038)                         | 200 ОК              | FAILED | [BUG-16](https://heorhii-ap.youtrack.cloud/issue/BUG-16)  |
 
 
 
