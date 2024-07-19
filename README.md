@@ -59,8 +59,12 @@
 | 40  | [Возможность доставки в 22 часа](https://www.postman.com/forweb/workspace/lavka/request/34470293-e6dd7f99-f290-461a-b5b5-cd3cd059ae27)                         | 200 ОК              | FAILED | [BUG-16](https://heorhii-ap.youtrack.cloud/issue/BUG-16)  |
 | 41  | [Возможность доставки в 23 часа](https://www.postman.com/forweb/workspace/lavka/request/34470293-7beba713-c4c3-4827-adf7-f06cde095c29)                         | 200 ОК              | FAILED | [BUG-16](https://heorhii-ap.youtrack.cloud/issue/BUG-16)  |
 | 42  | [Возможность доставки в 24 часа](https://www.postman.com/forweb/workspace/lavka/request/34470293-301c53e0-f796-484b-a459-5ac9dcb0423d)                         | 200 ОК              | FAILED | [BUG-16](https://heorhii-ap.youtrack.cloud/issue/BUG-16)  |
-| 42  | [Отправить запрос с deliveryTime=242](https://www.postman.com/forweb/workspace/lavka/request/34470293-21dd1b2b-122b-43e3-b11f-2b4c13176833)                    | 400 Bad Request     | FAILED | [BUG-17](https://heorhii-ap.youtrack.cloud/issue/BUG-17)  |
-| 42  | [Отправить запрос с deliveryTime=Aa](https://www.postman.com/forweb/workspace/lavka/request/34470293-f5780c4f-dd50-4bc2-a9a6-29fa7b53f1fa)                     | 400 Bad Request     | FAILED | [BUG-18](https://heorhii-ap.youtrack.cloud/issue/BUG-18)  |
+| 43  | [Отправить запрос с deliveryTime=242](https://www.postman.com/forweb/workspace/lavka/request/34470293-21dd1b2b-122b-43e3-b11f-2b4c13176833)                    | 400 Bad Request     | FAILED | [BUG-17](https://heorhii-ap.youtrack.cloud/issue/BUG-17)  |
+| 44  | [Отправить запрос с deliveryTime=Aa](https://www.postman.com/forweb/workspace/lavka/request/34470293-f5780c4f-dd50-4bc2-a9a6-29fa7b53f1fa)                     | 400 Bad Request     | FAILED | [BUG-18](https://heorhii-ap.youtrack.cloud/issue/BUG-18)  |
+| 45  | [Отправить запрос с deliveryTime=@@](https://www.postman.com/forweb/workspace/lavka/request/34470293-1e716023-35e5-4cc0-aab1-6358f5f31b64)                     | 400 Bad Request     | FAILED | [BUG-19](https://heorhii-ap.youtrack.cloud/issue/BUG-19)  |
+| 46  | [Передать пробел в deliveryTime](https://www.postman.com/forweb/workspace/lavka/request/34470293-35705dfb-cc9f-49b9-a953-71b4515de1a6)                         | 400 Bad Request     | FAILED | [BUG-20](https://heorhii-ap.youtrack.cloud/issue/BUG-20)  |
+| 47  | [Отправить запрос с незаполненным deliveryTime](https://www.postman.com/forweb/workspace/lavka/request/34470293-6f3bc246-d95b-46a6-a071-dab01519f7bb)          | 400 Bad Request     | FAILED | [BUG-21](https://heorhii-ap.youtrack.cloud/issue/BUG-21)  |
+| 48  | [Отсутствие параметра deliveryTime в теле запроса](https://www.postman.com/forweb/workspace/lavka/request/34470293-81f6b337-5f37-403a-af2b-117a471e6176)       | 400 Bad Request     | FAILED | [BUG-22](https://heorhii-ap.youtrack.cloud/issue/BUG-22)  |
 
 
 
