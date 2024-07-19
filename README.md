@@ -66,6 +66,14 @@
 | 47  | [Отправить запрос с незаполненным deliveryTime](https://www.postman.com/forweb/workspace/lavka/request/34470293-6f3bc246-d95b-46a6-a071-dab01519f7bb)          | 400 Bad Request     | FAILED | [BUG-21](https://heorhii-ap.youtrack.cloud/issue/BUG-21)  |
 | 48  | [Отсутствие параметра deliveryTime в теле запроса](https://www.postman.com/forweb/workspace/lavka/request/34470293-81f6b337-5f37-403a-af2b-117a471e6176)       | 400 Bad Request     | FAILED | [BUG-22](https://heorhii-ap.youtrack.cloud/issue/BUG-22)  |
 
+---
+
+Проверка стоимости внутренней доставки (hostDeliveryCost) и стоимости доставки клиенту (clientDeliveryCost)
+
+---
+
+
+
 
 
 
